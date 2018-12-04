@@ -111,4 +111,6 @@ int main(){
 			fclose(data);
 		}
 	}
+	return 0;
 }
+
